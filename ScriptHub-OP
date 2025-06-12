@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://dpaste.org/7cvj1/raw", true))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
