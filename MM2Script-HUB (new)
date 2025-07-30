@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/crt4r/MM2-Scripts/refs/heads/main/ScriptHUB-OP"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/crt4r/MM2-Scripts/refs/heads/main/ScriptHUB-MM2"))()
